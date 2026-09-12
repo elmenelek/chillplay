@@ -81,7 +81,7 @@ Everything else is just this script.
 That's it. No installer, no background service, nothing running when
 you're not using it.
 
-ChillPlay
+
 <img width="646" height="623" alt="chillplay-demo" src="https://github.com/user-attachments/assets/7b9eb269-f809-49f8-ab51-e6214db909fe" />
 
 
